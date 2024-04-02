@@ -34,4 +34,4 @@ Thanks to Al Sweigart for his inspirational book "Invent Your Own Computer Games
 
 ## License
 
-This project is inspired by the work of Al Sweigart and is for educational purposes. It is available under the MIT License. See LICENSE file for more details.
+This project is for educational purposes. It is available under the MIT License. See LICENSE file for more details.
